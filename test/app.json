@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test",
-    "description": "No description",
+    "name": "PublicFlex",
+    "description": "Testing App work in progress",
     "slug": "test",
     "privacy": "public",
     "sdkVersion": "21.0.0",
